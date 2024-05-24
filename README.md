@@ -22,5 +22,13 @@
 ![image](https://github.com/lckydidn/FSWD-HW-9/assets/136577844/a041313e-9578-43ed-9674-afc9e2edb370)
 
 
+# Logging
+Logging disini menggunakan morgan berikut screenshot terminal:
+# Users:
+![image](https://github.com/lckydidn/FSWD-HW-9/assets/136577844/f9c723bd-d661-4e96-8909-9d01b58649d4)\
+
+# Movies:
+![image](https://github.com/lckydidn/FSWD-HW-9/assets/136577844/3f43c1cf-1bb4-4849-bd07-3f1916e1fb17)
+
 
 
