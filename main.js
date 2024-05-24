@@ -1,3 +1,5 @@
+// Lucky Didan Ramadhan
+// FSWD Batch 7
 import express from "express";
 import dotenv from "dotenv";
 import router from "./routes/index.js";
