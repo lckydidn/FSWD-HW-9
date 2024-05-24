@@ -1,6 +1,7 @@
 import prisma from "../config/config.js";
 
 class Movies {
+  // Menampilkan list data film serta pagination dengan 10 data per page
   static async getAll(req, res) {
     try {
       const { page } = req.query;
@@ -22,6 +23,8 @@ class Movies {
       });
     }
   }
+
+  // Input data film
   static async post(req, res) {
     try {
       const { title, genres, year } = req.body;
@@ -61,6 +64,8 @@ class Movies {
       });
     }
   }
+
+  //Edit data
   static async put(req, res) {
     try {
       const { id } = req.params;
@@ -90,6 +95,8 @@ class Movies {
       });
     }
   }
+
+  // Delete data
   static async delete(req, res) {
     try {
       const { id } = req.params;

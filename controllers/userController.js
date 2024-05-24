@@ -2,6 +2,7 @@ import prisma from "../config/config.js";
 import bcrypt from "bcrypt";
 
 class Users {
+  // Mencari data user serta pagination dengan limit 10 data per page
   static async getAll(req, res) {
     try {
       const { page } = req.query;
@@ -24,6 +25,7 @@ class Users {
     }
   }
 
+  // Registerasi user
   static async register(req, res) {
     try {
       const { email, gender, password, role } = req.body;
@@ -74,6 +76,7 @@ class Users {
     }
   }
 
+  // Login user
   static async login(req, res) {
     try {
       const { email, password } = req.body;
@@ -99,6 +102,7 @@ class Users {
       });
     }
   }
+  // Mengedit data user
   static async put(req, res) {
     try {
       const { id } = req.params;
@@ -133,6 +137,7 @@ class Users {
       });
     }
   }
+  // Delete data user
   static async delete(req, res) {
     try {
       const id = req.params.id;
