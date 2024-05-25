@@ -1,25 +1,30 @@
 # Dokumentasi API
 # Users:
 - Login User menggunakan metode Post:
-![image](https://github.com/lckydidn/FSWD-HW-9/assets/136577844/833b89b1-cf25-48b5-988c-f6794c492329)
+  ![image](https://github.com/lckydidn/FSWD-HW-9/assets/136577844/0b179723-f7b1-48f4-8852-896368c248a3)
 - GetAll data menggunakan metode Get:
-  ![image](https://github.com/lckydidn/FSWD-HW-9/assets/136577844/8c76c997-ed6f-4cb5-abd4-69da54ca6a59)
+  ![image](https://github.com/lckydidn/FSWD-HW-9/assets/136577844/f9a39165-77b2-46bb-8bc8-059482b13870)
 - Register user menggunakan metode Post:
-  ![image](https://github.com/lckydidn/FSWD-HW-9/assets/136577844/512e7bd4-fd4d-457f-b4df-77cbcfe03e9f)
-- Edit user menggunakan metode Put:
-  ![image](https://github.com/lckydidn/FSWD-HW-9/assets/136577844/c304b467-6c02-4fbc-8724-89c3e1aff417)
+  ![image](https://github.com/lckydidn/FSWD-HW-9/assets/136577844/480e8c64-5e2f-418c-a2f6-2e78e1b5ae38)
+- Edit user menggunakan metode Put: <br />
+  ![image](https://github.com/lckydidn/FSWD-HW-9/assets/136577844/798295bd-41c9-4ac8-9007-86408b583967)
 - Delete user menggunakan metode Delete:
-  ![image](https://github.com/lckydidn/FSWD-HW-9/assets/136577844/9c593fb2-1065-40f6-8efd-222ba1e7f5d7)
+  ![image](https://github.com/lckydidn/FSWD-HW-9/assets/136577844/5e6bedd3-55b4-4b1a-ac4d-bf741f8bb4cd)
+
 
 # Movies:
 - GetAll data menggunakan metode Get:
-![image](https://github.com/lckydidn/FSWD-HW-9/assets/136577844/a9981772-2ccf-4b81-b860-09f6de45cd3e)
+![image](https://github.com/lckydidn/FSWD-HW-9/assets/136577844/e36a93d4-1da8-4f54-a4b5-3a0badb6be86)
+
 - Inputfilm menggunakan metode Post:
-  ![image](https://github.com/lckydidn/FSWD-HW-9/assets/136577844/17590b64-ca37-4d63-b766-b81a87f6ba9a)
-- Edit movies menggunakan metode Put:
-![image](https://github.com/lckydidn/FSWD-HW-9/assets/136577844/c9dbc66b-2424-4e2e-82eb-257b30b83d33)
+  ![image](https://github.com/lckydidn/FSWD-HW-9/assets/136577844/ea6f7a01-a2fc-4edf-9f05-fdddca9b5c42)
+
+- Edit movies menggunakan metode Put: <br />
+![image](https://github.com/lckydidn/FSWD-HW-9/assets/136577844/9be11308-0e75-416b-8adb-c7d961cbedbc)
+
 - Delete movies menggunakan metode Delete:
-![image](https://github.com/lckydidn/FSWD-HW-9/assets/136577844/a041313e-9578-43ed-9674-afc9e2edb370)
+![image](https://github.com/lckydidn/FSWD-HW-9/assets/136577844/5f5b8b19-da3f-418f-bde2-6ba461425144)
+
 
 
 # Logging
